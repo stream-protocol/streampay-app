@@ -7,7 +7,7 @@ StreamPay is a cutting-edge payments app leveraging the speed and security of th
 - **Modern UI:** Thanks to Angular 16 and Angular Material.
 - **Rapid Authentication:** Streamlined authentication using Firebase for Facebook, Twitter, and email.
 - **Secure Storage:** Cloud Firestore ensures safe storage for public Solana keys and messaging.
-- **Efficient Payments:** Solana Pay facilitates QR code generation and scanning, enabling quick payment transactions.
+- **Efficient Payments:** StreamPay facilitates QR code generation and scanning, enabling quick payment transactions.
 
 ## Tech Stack
 
